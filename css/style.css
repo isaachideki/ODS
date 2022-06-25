@@ -1,0 +1,53 @@
+.wrapper{
+    position: absolute;
+    width: 1440%;
+    height: 2000px;
+    background: #00689D;
+    top:0px;
+    left: 0px;
+}
+
+#div1{
+    background-color: magenta;
+    width: 1000%;
+    height: 500px;
+    background-image: url(../imagens/world-3043067__480.jpg) ;
+   
+    
+}
+#div2{
+    background-color: brown;
+    width: 1000%;
+    height: 400px;
+   
+
+}
+#div3{
+    background-color: #5eff00;
+    width: 1000%;
+    height: 500px;
+   
+}
+#div4{  background-color: #ff009d;
+    width: 1000%;
+    height: 500px;
+    display: inline-block;
+    background-image: url(../imagens/transferir.jpg);
+}
+#div5{
+background-color: #ffffff;
+width: 1000%;
+height: 500px;
+display: inline-block;
+}
+#div6{
+background-color: brown;
+width: 1000%;
+height: 400px;
+display: inline-block;
+}
+#div7{
+background-color: magenta;
+width: 1000%;
+height: 550px;
+}
